@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "email": "leanne.graham@gmail.com",
+      "password": "password"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "email": "ervin.howell@gmail.com",
+      "password": "password"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "email": "clementine.bauch@gmail.com",
+      "password": "password"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "email": "patricia.lebsack@gmail.com",
+      "password": "password"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "email": "chelsey.dietrich@gmail.com",
+      "password": "password"
+    }
+  ]
+}
